@@ -1,0 +1,23 @@
+{
+  "name": "create-commit",
+  "version": "1.1.0",
+  "description": "Create a commitizen commit.",
+  "main": "src/lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/commitizen/create-commit.git"
+  },
+  "bin": {
+    "create-commit": "./bin.js"
+  },
+  "keywords": [],
+  "author": "Jim Cummins <jimthedev@gmail.com> (http://github.com/jimthedev)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/commitizen/create-commit/issues"
+  },
+  "homepage": "https://github.com/commitizen/create-commit#readme"
+}
